@@ -4,5 +4,6 @@
 <https://fuwa.se/>      | <https://github.com/Guad/fuwa>
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen>
 <https://pomf.cat/>     |
+<https://mixtape.moe/>  |
 <http://xpo.pw/>        | 
 <https://maxfile.ro/>   |
