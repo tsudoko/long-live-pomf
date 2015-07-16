@@ -6,5 +6,6 @@
 <https://pomf.cat/>     |
 <https://pomf.pl/>      |
 <https://mixtape.moe/>  |
+<https://bucket.pw/>    |
 <http://xpo.pw/>        | 
 <https://maxfile.ro/>   |
