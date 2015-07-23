@@ -7,7 +7,7 @@
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pantsu.cat/>   |                                         | 50               | Paste
 <https://pomf.cat/>     |                                         | 50               |
-<https://pomf.pl/>      |                                         | 50               | Currently down
+<https://pomf.pl/>      |                                         | 50               |
 <https://mixtape.moe/>  |                                         | 100              | Paste, voice
 <https://kyaa.eu/>      |                                         | 50               |
 <https://bucket.pw/>    |                                         | 50               |
