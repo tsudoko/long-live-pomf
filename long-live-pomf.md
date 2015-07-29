@@ -13,5 +13,6 @@
 <https://bucket.pw/>    |                                         | 50               |
 <http://xpo.pw/>        |                                         | 50               | Paste
 <https://maxfile.ro/>   |                                         | 50               |
+<http://catbox.moe/>    |                                         | 200              |
 
 [0]: http://ipfs.io/
