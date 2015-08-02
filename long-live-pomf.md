@@ -10,6 +10,7 @@
 <https://pomf.pl/>      |                                         | 50               |
 <https://mixtape.moe/>  |                                         | 100              | Paste, voice
 <https://kyaa.eu/>      |                                         | 50               |
+<https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://bucket.pw/>    |                                         | 50               |
 <http://xpo.pw/>        |                                         | 50               | Paste
 <https://maxfile.ro/>   |                                         | 50               |
