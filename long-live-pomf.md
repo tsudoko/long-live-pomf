@@ -3,6 +3,7 @@
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              | Nice colors
 <https://fuwa.se/>      | <https://github.com/Guad/fuwa>          | 10               |
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
+<https://madokami.com/> | <https://github.com/kimoi/Pomf>         | 50               |
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              |
 <https://glop.me/>      |                                         | 50               | Uses [IPFS][0]
 <https://pomf.pl/>      |                                         | 50               |
