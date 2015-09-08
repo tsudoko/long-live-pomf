@@ -17,6 +17,7 @@
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://bucket.pw/>    |                                         | 50               |
 <https://maxfile.ro/>   |                                         | 50               |
+<http://pomf.io/>       |                                         | 50               |
 <http://cuntflaps.me/>  |                                         | 100              |
 <http://up.che.moe/>    |                                         | 50               |
 <http://gallium.ga/>    |                                         | 1024             |
