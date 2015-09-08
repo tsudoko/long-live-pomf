@@ -10,10 +10,16 @@
 <https://pomf.cat/>     |                                         | 50               |
 <https://mixtape.moe/>  |                                         | 100              | Paste, voice
 <https://kyaa.eu/>      |                                         | 50               |
+<https://matu.red/>     |                                         | 20               |
+<https://openhost.xyz/> |                                         | 1024             |
+<https://nyanimg.com/>  |                                         | 50               |
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://bucket.pw/>    |                                         | 50               |
 <https://maxfile.ro/>   |                                         | 50               |
+<http://cuntflaps.me/>  |                                         | 100              |
+<http://up.che.moe/>    |                                         | 50               |
+<http://gallium.ga/>    |                                         | 1024             |
 <http://catbox.moe/>    |                                         | 200              |
 
 [0]: http://ipfs.io/
