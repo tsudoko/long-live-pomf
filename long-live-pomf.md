@@ -13,7 +13,6 @@
 <https://kyaa.eu/>      |                                         | 50               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://bucket.pw/>    |                                         | 50               |
-<http://xpo.pw/>        |                                         | 50               | Paste
 <https://maxfile.ro/>   |                                         | 50               |
 <http://catbox.moe/>    |                                         | 200              |
 
