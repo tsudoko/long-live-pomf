@@ -1,6 +1,7 @@
  Website                | Source code                             | Size limit (MiB) | Notes
 ------------------------|-----------------------------------------|------------------|-------
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              | Nice colors
+<https://pantsu.cat/>   | <https://git.pantsu.cat/pantsu/pomf>    | 128              | Git, JS-free, paste
 <https://fuwa.se/>      | <https://github.com/Guad/fuwa>          | 10               | JS-free
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://madokami.com/> | <https://github.com/kimoi/Pomf>         | 50               |
