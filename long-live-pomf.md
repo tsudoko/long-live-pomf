@@ -2,8 +2,9 @@
 ------------------------|-----------------------------------------|------------------|-------
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              | Nice colors
 <https://pantsu.cat/>   | <https://git.pantsu.cat/pantsu/pomf>    | 128              | Git, JS-free, paste
-<https://fuwa.se/>      | <https://github.com/Guad/fuwa>          | 10               | JS-free
+<https://m.fuwa.se/>    | <https://github.com/Guad/fuwa>          | 10               | JS-free
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
+<https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://madokami.com/> | <https://github.com/kimoi/Pomf>         | 50               |
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
 <https://glop.me/>      |                                         | 50               | Uses [IPFS][0]
