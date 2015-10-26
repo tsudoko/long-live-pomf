@@ -28,4 +28,6 @@
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
 
+See <https://git.pantsu.cat/WubTheCaptain/deathwatch-pomf> for a more detailed/objective/accurate listing.
+
 [0]: http://ipfs.io/
