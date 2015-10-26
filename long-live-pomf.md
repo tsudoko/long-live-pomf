@@ -5,7 +5,7 @@
 <https://m.fuwa.se/>    | <https://github.com/Guad/fuwa>          | 10               | JS-free
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
-<https://madokami.com/> | <https://github.com/kimoi/Pomf>         | 50               |
+<https://madokami.com/> | <https://github.com/kimoi/madokami.com> | 256              |
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
 <https://glop.me/>      |                                         | 50               | Uses [IPFS][0]
 <https://pomf.pl/>      |                                         | 50               |
