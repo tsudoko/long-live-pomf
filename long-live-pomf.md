@@ -7,12 +7,12 @@
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://madokami.com/> | <https://github.com/kimoi/madokami.com> | 256              |
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
-<https://glop.me/>      |                                         | 50               | Uses [IPFS][0]
+<https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://pomf.pl/>      |                                         | 50               |
 <https://pomf.cat/>     |                                         | 50               |
 <https://mixtape.moe/>  |                                         | 100              | Paste, voice
-<https://kyaa.eu/>      |                                         | 50               |
-<https://matu.red/>     |                                         | 20               |
+<https://kyaa.sg/>      |                                         | 50               |
+<https://matu.red/>     |                                         | 20               | Currently down
 <https://openhost.xyz/> |                                         | 1024             |
 <https://nyanimg.com/>  |                                         | 50               |
 <https://g.zxq.co/>     |                                         | 80               |
@@ -20,7 +20,7 @@
 <https://bucket.pw/>    |                                         | 50               |
 <https://maxfile.ro/>   |                                         | 50               |
 <http://pomf.io/>       |                                         | 50               |
-<http://cuntflaps.me/>  |                                         | 100              |
+<http://cuntflaps.me/>  |                                         | 200              |
 <http://up.che.moe/>    |                                         | 50               |
 <http://gallium.ga/>    |                                         | 1024             | Currently down
 <http://catbox.moe/>    |                                         | 200              |
