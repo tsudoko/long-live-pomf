@@ -21,7 +21,7 @@
 <http://pomf.io/>       |                                         | 50               |
 <http://cuntflaps.me/>  |                                         | 100              |
 <http://up.che.moe/>    |                                         | 50               |
-<http://gallium.ga/>    |                                         | 1024             |
+<http://gallium.ga/>    |                                         | 1024             | Currently down
 <http://catbox.moe/>    |                                         | 200              |
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
