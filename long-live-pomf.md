@@ -12,6 +12,7 @@
 <https://pomf.cat/>     |                                         | 50               |
 <https://mixtape.moe/>  |                                         | 100              | Paste, voice
 <https://kyaa.sg/>      |                                         | 50               |
+<https://sheesh.in/>    |                                         | 50               | Paste
 <https://matu.red/>     |                                         | 20               | Currently down
 <https://openhost.xyz/> |                                         | 1024             |
 <https://nyanimg.com/>  |                                         | 50               |
@@ -20,6 +21,8 @@
 <https://bucket.pw/>    |                                         | 50               |
 <https://maxfile.ro/>   |                                         | 50               |
 <http://pomf.io/>       |                                         | 50               |
+<http://comfy.moe/>     |                                         | 512              |
+<http://aishiteru.moe/> |                                         | 500              | Git
 <http://cuntflaps.me/>  |                                         | 200              |
 <http://up.che.moe/>    |                                         | 50               |
 <http://gallium.ga/>    |                                         | 1024             | Currently down
