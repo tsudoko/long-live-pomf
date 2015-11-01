@@ -12,7 +12,7 @@
 <https://pomf.cat/>     |                                         | 50               |
 <https://mixtape.moe/>  |                                         | 100              | Paste, voice
 <https://kyaa.sg/>      |                                         | 50               |
-<https://sheesh.in/>    |                                         | 50               | Paste
+<https://sheesh.in/>    |                                         | 50               | JS-free, paste
 <https://matu.red/>     |                                         | 20               | Currently down
 <https://openhost.xyz/> |                                         | 1024             |
 <https://nyanimg.com/>  |                                         | 50               |
