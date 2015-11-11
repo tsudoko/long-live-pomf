@@ -13,7 +13,6 @@
 <https://mixtape.moe/>  |                                         | 100              | Paste, voice
 <https://kyaa.sg/>      |                                         | 50               |
 <https://sheesh.in/>    |                                         | 50               | Currently down, JS-free, paste
-<https://matu.red/>     |                                         | 20               | Currently down
 <https://openhost.xyz/> |                                         | 1024             |
 <https://nyanimg.com/>  |                                         | 50               |
 <https://g.zxq.co/>     |                                         | 80               |
@@ -25,7 +24,6 @@
 <http://aishiteru.moe/> |                                         | 500              | Git
 <http://cuntflaps.me/>  |                                         | 200              |
 <http://up.che.moe/>    |                                         | 50               |
-<http://gallium.ga/>    |                                         | 1024             | Currently down
 <http://catbox.moe/>    |                                         | 200              |
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
