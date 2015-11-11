@@ -18,7 +18,7 @@
 <https://nyanimg.com/>  |                                         | 50               |
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
-<https://bucket.pw/>    |                                         | 50               |
+<https://bucket.pw/>    |                                         | 50               | Currently down
 <https://maxfile.ro/>   |                                         | 50               |
 <http://pomf.io/>       |                                         | 50               |
 <http://comfy.moe/>     |                                         | 512              |
