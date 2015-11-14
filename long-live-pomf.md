@@ -19,7 +19,7 @@
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://bucket.pw/>    |                                         | 50               | Currently down
 <https://maxfile.ro/>   |                                         | 50               |
-<http://pomf.io/>       |                                         | 100              |
+<http://pomf.io/>       |                                         | 256              |
 <http://comfy.moe/>     |                                         | 512              |
 <http://aishiteru.moe/> |                                         | 500              | Git
 <http://cuntflaps.me/>  |                                         | 200              |
