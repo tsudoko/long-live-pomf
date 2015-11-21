@@ -7,10 +7,10 @@
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://madokami.com/> | <https://github.com/kimoi/madokami.com> | 256              | Currently down
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
+<https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe/> | 100            | Paste, voice
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://pomf.pl/>      |                                         | 50               |
 <https://pomf.cat/>     |                                         | 50               |
-<https://mixtape.moe/>  |                                         | 100              | Paste, voice
 <https://kyaa.sg/>      |                                         | 50               |
 <https://sheesh.in/>    |                                         | 50               | Currently down, JS-free, paste
 <https://openhost.xyz/> |                                         | 1024             |
