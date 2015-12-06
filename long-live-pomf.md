@@ -1,25 +1,25 @@
  Website                | Source code                             | Size limit (MiB) | Notes
 ------------------------|-----------------------------------------|------------------|-------
-<http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
+<https://madokami.com/> | <https://github.com/kimoi/madokami.com> | 256              |
+<https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe/> | 100            | Paste, voice
 <https://m.fuwa.se/>    | <https://github.com/Guad/fuwa>          | 10               | JS-free
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
-<https://madokami.com/> | <https://github.com/kimoi/madokami.com> | 256              |
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
-<https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe/> | 100            | Paste, voice
+<http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
 <http://catgirlsare.sexy> |                                       | 100              |
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://pomf.pl/>      |                                         | 50               |
-<https://pomf.cat/>     |                                         | 50               |
 <https://kyaa.sg/>      |                                         | 100              |
+<https://pomf.cat/>     |                                         | 50               |
+<https://pomf.io/>      |                                         | 256              |
+<https://aishiteru.moe/> |                                        | 500              | Git
+<https://comfy.moe/>    |                                         | 512              |
 <https://openhost.xyz/> |                                         | 1024             |
-<https://nyanimg.com/>  |                                         | 50               |
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://maxfile.ro/>   |                                         | 50               |
-<https://pomf.io/>      |                                         | 256              |
-<https://comfy.moe/>    |                                         | 512              |
-<https://aishiteru.moe/> |                                        | 500              | Git
+<https://nyanimg.com/>  |                                         | 50               |
 <https://cuntflaps.me/> |                                         | 200              |
 <https://nigger.cat/>   |                                         | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               |
