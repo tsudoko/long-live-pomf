@@ -21,7 +21,7 @@
 <https://aishiteru.moe/> |                                        | 500              | Git
 <https://cuntflaps.me/> |                                         | 200              |
 <http://up.che.moe/>    |                                         | 50               |
-<http://catbox.moe/>    |                                         | 200              |
+<http://catbox.moe/>    |                                         | 200              | JS-free
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
