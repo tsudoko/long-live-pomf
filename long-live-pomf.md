@@ -10,7 +10,7 @@
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://pomf.pl/>      |                                         | 50               |
 <https://pomf.cat/>     |                                         | 50               |
-<https://kyaa.sg/>      |                                         | 50               |
+<https://kyaa.sg/>      |                                         | 100              |
 <https://openhost.xyz/> |                                         | 1024             |
 <https://nyanimg.com/>  |                                         | 50               |
 <https://g.zxq.co/>     |                                         | 80               |
