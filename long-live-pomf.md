@@ -16,10 +16,10 @@
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://maxfile.ro/>   |                                         | 50               |
-<http://pomf.io/>       |                                         | 256              |
-<http://comfy.moe/>     |                                         | 512              |
-<http://aishiteru.moe/> |                                         | 500              | Git
-<http://cuntflaps.me/>  |                                         | 200              |
+<https://pomf.io/>      |                                         | 256              |
+<https://comfy.moe/>    |                                         | 512              |
+<https://aishiteru.moe/> |                                        | 500              | Git
+<https://cuntflaps.me/> |                                         | 200              |
 <http://up.che.moe/>    |                                         | 50               |
 <http://catbox.moe/>    |                                         | 200              |
 
