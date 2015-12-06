@@ -7,6 +7,7 @@
 <https://madokami.com/> | <https://github.com/kimoi/madokami.com> | 256              |
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
 <https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe/> | 100            | Paste, voice
+<http://catgirlsare.sexy> |                                       | 100              |
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://pomf.pl/>      |                                         | 50               |
 <https://pomf.cat/>     |                                         | 50               |
@@ -20,6 +21,9 @@
 <https://comfy.moe/>    |                                         | 512              |
 <https://aishiteru.moe/> |                                        | 500              | Git
 <https://cuntflaps.me/> |                                         | 200              |
+<https://nigger.cat/>   |                                         | 50               |
+<https://sugoi.vidyagam.es/> |                                    | 50               |
+<http://files.plebeianparty.com/> |                               | 50               |
 <http://up.che.moe/>    |                                         | 50               |
 <http://catbox.moe/>    |                                         | 200              | JS-free
 
