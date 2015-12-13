@@ -9,10 +9,9 @@
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
 <http://catgirlsare.sexy> |                                       | 100              |
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
-<https://pomf.pl/>      |                                         | 50               |
+<https://pomf.io/>      |                                         | 256              |
 <https://kyaa.sg/>      |                                         | 100              |
 <https://pomf.cat/>     |                                         | 50               |
-<https://pomf.io/>      |                                         | 256              |
 <https://aishiteru.moe/> |                                        | 500              | Git
 <https://comfy.moe/>    |                                         | 512              |
 <https://openhost.xyz/> |                                         | 1024             |
