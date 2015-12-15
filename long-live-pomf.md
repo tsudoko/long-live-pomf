@@ -1,5 +1,6 @@
  Website                | Source code                             | Size limit (MiB) | Notes
 ------------------------|-----------------------------------------|------------------|-------
+<https://pantsu.cat/>   | <https://git.pantsu.cat/pantsu/pomf>    | 128              | Git, JS-free, paste
 <https://madokami.com/> | <https://github.com/kimoi/madokami.com> | 256              | On fire
 <https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe/> | 100            | Paste, voice
 <https://m.fuwa.se/>    | <https://github.com/Guad/fuwa>          | 10               | JS-free
