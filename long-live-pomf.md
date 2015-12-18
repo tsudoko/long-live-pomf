@@ -1,12 +1,12 @@
  Website                | Source code                             | Size limit (MiB) | Notes
 ------------------------|-----------------------------------------|------------------|-------
-<https://madokami.com/> | <https://github.com/kimoi/madokami.com> | 256              | On fire
 <https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe/> | 100            | Paste, voice
 <https://m.fuwa.se/>    | <https://github.com/Guad/fuwa>          | 10               | JS-free
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
+                        | <https://github.com/kimoi/madokami.com> |                  |
 <http://catgirlsare.sexy> |                                       | 100              |
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://pomf.io/>      |                                         | 256              |
