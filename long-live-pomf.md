@@ -4,6 +4,7 @@
 <https://m.fuwa.se/>    | <https://github.com/Guad/fuwa>          | 10               | JS-free
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
+<https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
                         | <https://github.com/kimoi/madokami.com> |                  |
