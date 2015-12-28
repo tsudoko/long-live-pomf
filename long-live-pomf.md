@@ -11,7 +11,7 @@
                         | <https://github.com/kimoi/madokami.com> |                  |
 <http://catgirlsare.sexy/> |                                      | 100              |
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
-<https://pomf.io/>      |                                         | 256              |
+<https://pomf.is/>      |                                         | 256              |
 <https://kyaa.sg/>      |                                         | 100              |
 <https://pomf.cat/>     |                                         | 50               |
 <https://aishiteru.moe/> |                                        | 500              | Git
