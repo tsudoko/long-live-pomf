@@ -24,7 +24,7 @@
 <https://cuntflaps.me/> |                                         | 200              |
 <https://nigger.cat/>   |                                         | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               |
-<http://cocaine.ninja/> |                                         | 15               |
+<http://cocaine.ninja/> |                                         | 50               |
 <http://files.plebeianparty.com/> |                               | 50               |
 <http://up.che.moe/>    |                                         | 50               |
 <http://catbox.moe/>    |                                         | 200              | JS-free
