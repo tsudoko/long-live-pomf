@@ -11,6 +11,7 @@
                         | <https://github.com/kimoi/madokami.com> |                  |
 <http://catgirlsare.sexy/> |                                      | 100              |
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
+<https://cocaine.ninja/> |                                        | 50               | JS-free
 <https://pomf.is/>      |                                         | 256              |
 <https://kyaa.sg/>      |                                         | 100              |
 <https://pomf.cat/>     |                                         | 50               |
@@ -24,7 +25,6 @@
 <https://cuntflaps.me/> |                                         | 200              |
 <https://nigger.cat/>   |                                         | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               |
-<http://cocaine.ninja/> |                                         | 50               | JS-free
 <http://files.plebeianparty.com/> |                               | 50               |
 <http://up.che.moe/>    |                                         | 50               |
 <http://catbox.moe/>    |                                         | 200              | JS-free
