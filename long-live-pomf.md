@@ -24,6 +24,7 @@
 <https://nyanimg.com/>  |                                         | 50               |
 <https://cuntflaps.me/> |                                         | 200              |
 <https://nigger.cat/>   |                                         | 50               |
+<https://pomf.lesderid.net/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               |
 <http://files.plebeianparty.com/> |                               | 50               |
 <http://up.che.moe/>    |                                         | 50               |
