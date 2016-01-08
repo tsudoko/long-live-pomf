@@ -21,7 +21,6 @@
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://maxfile.ro/>   |                                         | 50               |
-<https://nyanimg.com/>  |                                         | 50               |
 <https://cuntflaps.me/> |                                         | 200              |
 <https://nigger.cat/>   |                                         | 50               |
 <https://pomf.lesderid.net/> |                                    | 50               |
