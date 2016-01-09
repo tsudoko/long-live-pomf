@@ -18,6 +18,7 @@
 <https://aishiteru.moe/> |                                        | 500              | Git
 <https://comfy.moe/>    |                                         | 512              |
 <https://openhost.xyz/> |                                         | 1024             |
+<https://u.xpw.us/>     |                                         | 100              |
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://maxfile.ro/>   |                                         | 50               |
