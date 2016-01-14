@@ -15,6 +15,7 @@
 <https://pomf.is/>      |                                         | 256              |
 <https://kyaa.sg/>      |                                         | 100              |
 <https://pomf.cat/>     |                                         | 75               |
+<https://tpb.lc/>       |                                         | 1024             |
 <https://aishiteru.moe/> |                                        | 500              | Git
 <https://comfy.moe/>    |                                         | 512              |
 <https://openhost.xyz/> |                                         | 1024             |
