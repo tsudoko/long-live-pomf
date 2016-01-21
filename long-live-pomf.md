@@ -11,6 +11,7 @@
                         | <https://github.com/kimoi/madokami.com> |                  |
 <http://catgirlsare.sexy/> |                                      | 100              |
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
+<https://steamy.moe/>   |                                         | 512              |
 <https://cocaine.ninja/> |                                        | 100              | JS-free
 <https://pomf.is/>      |                                         | 256              |
 <https://kyaa.sg/>      |                                         | 100              |
