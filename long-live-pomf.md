@@ -5,8 +5,8 @@
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
-<https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 100              |
-<http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free
+<https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 100              | Paste
+<http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free, paste
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
                         | <https://github.com/kimoi/madokami.com> |                  |
 <http://catgirlsare.sexy/> |                                      | 100              |
@@ -20,7 +20,7 @@
 <https://aishiteru.moe/> |                                        | 500              | Git
 <https://comfy.moe/>    |                                         | 512              |
 <https://openhost.xyz/> |                                         | 1024             |
-<https://u.xpw.us/>     |                                         | 100              |
+<https://u.xpw.us/>     |                                         | 100              | Paste
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://pomfe.co/>     |                                         | 100              |
