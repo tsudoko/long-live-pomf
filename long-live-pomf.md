@@ -13,11 +13,9 @@
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://steamy.moe/>   |                                         | 512              |
 <https://cocaine.ninja/> |                                        | 100              | JS-free
-<https://pomf.is/>      |                                         | 256              |
 <https://kyaa.sg/>      |                                         | 100              |
 <https://pomf.cat/>     |                                         | 75               |
 <https://nekko.io/>     |                                         | 512              | Rude, JS-free
-<https://aishiteru.moe/> |                                        | 500              | Git
 <https://comfy.moe/>    |                                         | 512              |
 <https://openhost.xyz/> |                                         | 1024             |
 <https://u.xpw.us/>     |                                         | 100              | Paste
