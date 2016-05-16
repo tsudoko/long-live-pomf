@@ -12,6 +12,7 @@
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://steamy.moe/>   |                                         | 512              | Nice colors
 <https://comfy.moe/>    |                                         | 512              |
+<https://filebunker.pw/> |                                        | 100              |
 <https://cocaine.ninja/> |                                        | 100              | JS-free
 <https://kyaa.sg/>      |                                         | 100              | JS-free
 <https://p.fuwafuwa.moe/> |                                       | 50               |
