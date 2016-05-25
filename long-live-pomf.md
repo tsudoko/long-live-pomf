@@ -28,6 +28,7 @@
 <https://nigger.cat/>   |                                         | 50               | Git
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors
+<http://rfl.pw/>        |                                         | 250              |
 <http://qt.cx/>         |                                         | 50               |
 <http://up.asis.io/>    |                                         | 50               |
 <http://up.che.moe/>    |                                         | 50               |
