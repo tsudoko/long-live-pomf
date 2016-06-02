@@ -21,6 +21,7 @@
 <https://openhost.xyz/> |                                         | 1024             |
 <https://u.xpw.us/>     |                                         | 100              | Paste
 <https://g.zxq.co/>     |                                         | 80               |
+<https://pomf.pyonpyon.moe/> |                                    | 50               |
 <https://pomf.hummingbird.moe/> |                                 | 50               |
 <https://pomfe.co/>     |                                         | 100              |
 <https://maxfile.ro/>   |                                         | 50               |
