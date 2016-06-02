@@ -29,7 +29,7 @@
 <https://nigger.cat/>   |                                         | 50               | Git
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors
-<http://pajeet.xyz/>    |                                         |                  | Public uploads, JS-free
+<http://pajeet.xyz/>    |                                         |                  | Public uploads, JS-free, original filenames
 <http://rfl.pw/>        |                                         | 250              |
 <http://qt.cx/>         |                                         | 50               |
 <http://up.asis.io/>    |                                         | 50               |
