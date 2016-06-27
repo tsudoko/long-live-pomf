@@ -8,6 +8,7 @@
 <https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 100              | Paste
 <http://wakaba.dhcp.io/> | <https://github.com/sora-chan/wakaba>  | 128              | JS-free, paste
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
+<http://lainfile.pw/>   | <https://gitla.in/installgen2/flup>     | 8                | Public uploads, JS-free, original filenames
                         | <https://github.com/kimoi/madokami.com> |                  |
 <https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://steamy.moe/>   |                                         | 512              | Nice colors
@@ -29,7 +30,6 @@
 <https://nigger.cat/>   |                                         | 50               | Git
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors
-<http://pajeet.xyz/>    |                                         |                  | Public uploads, JS-free, original filenames
 <http://rfl.pw/>        |                                         | 250              |
 <http://qt.cx/>         |                                         | 50               |
 <http://up.asis.io/>    |                                         | 50               |
