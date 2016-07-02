@@ -28,7 +28,7 @@
 <https://maxfile.ro/>   |                                         | 50               | Currently down
 <https://nigger.cat/>   |                                         | 50               | Currently down, Git
 <https://pomf.lesderid.net/> |                                    | 50               |
-<https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors
+<https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
 <http://glop.me/>       |                                         | 10               | Uses [IPFS][0], paste
 <http://rfl.pw/>        |                                         | 250              |
 <http://qt.cx/>         |                                         | 50               | Currently down
