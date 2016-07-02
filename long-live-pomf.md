@@ -11,7 +11,6 @@
 <http://lainfile.pw/>   | <https://gitla.in/installgen2/flup>     | 8                | Public uploads, JS-free, original filenames
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
                         | <https://github.com/kimoi/madokami.com> |                  |
-<https://glop.me/>      |                                         | 10               | Uses [IPFS][0]
 <https://steamy.moe/>   |                                         | 512              | Nice colors
 <https://comfy.moe/>    |                                         | 512              |
 <https://filebunker.pw/> |                                        | 100              |
@@ -30,6 +29,7 @@
 <https://nigger.cat/>   |                                         | 50               | Currently down, Git
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors
+<http://glop.me/>       |                                         | 10               | Uses [IPFS][0], paste
 <http://rfl.pw/>        |                                         | 250              |
 <http://qt.cx/>         |                                         | 50               | Currently down
 <http://up.asis.io/>    |                                         | 50               |
