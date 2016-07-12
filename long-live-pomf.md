@@ -22,14 +22,20 @@
 <https://openhost.xyz/> |                                         | 1024             |
 <https://u.xpw.us/>     |                                         | 100              | Paste
 <https://g.zxq.co/>     |                                         | 80               |
+<https://pomf.amatsuka.com/> |                                    | 500              |
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
+<https://pomf.pikami.tk/> |                                       | 50               | Paste
 <https://pomfe.co/>     |                                         | 100              |
 <https://pomf.lesderid.net/> |                                    | 50               |
+<https://filedropper.pw/> |                                       | 75               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
+<https://vidga.me/>     |                                         | 100              | JS-free
 <http://glop.me/>       |                                         | 10               | Uses [IPFS][0], paste
 <http://rfl.pw/>        |                                         | 250              |
+<http://www.shanatan.moe/> |                                      | 50               |
 <http://up.asis.io/>    |                                         | 50               |
 <http://up.che.moe/>    |                                         | 50               |
+<http://pomf.vykr.xyz/> |                                         | 256              | JS-free
 <http://catbox.moe/>    |                                         | 200              | JS-free
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
