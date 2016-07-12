@@ -2,7 +2,6 @@
 ------------------------|-----------------------------------------|------------------|-------
 <https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe> | 100             | Paste, voice
 <https://cuntflaps.me/> | <https://gitgud.io/Alucard/pomf>        | 250              |
-<https://m.fuwa.se/>    | <https://github.com/Guad/fuwa>          | 10               | Currently down, JS-free
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
@@ -10,6 +9,7 @@
 <https://mokou.tk/>     | <https://github.com/sora-chan/wakaba>   | 128              | JS-free, paste
 <http://lainfile.pw/>   | <https://gitla.in/installgen2/flup>     | 8                | Public uploads, JS-free, original filenames
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
+                        | <https://github.com/Guad/fuwa>          |                  | JS-free
                         | <https://github.com/kimoi/madokami.com> |                  |
 <https://steamy.moe/>   |                                         | 512              | Nice colors
 <https://comfy.moe/>    |                                         | 512              |
@@ -23,15 +23,11 @@
 <https://u.xpw.us/>     |                                         | 100              | Paste
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
-<https://pomf.hummingbird.moe/> |                                 | 50               | Currently down
 <https://pomfe.co/>     |                                         | 100              |
-<https://maxfile.ro/>   |                                         | 50               | Currently down
-<https://nigger.cat/>   |                                         | 50               | Currently down, Git
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
 <http://glop.me/>       |                                         | 10               | Uses [IPFS][0], paste
 <http://rfl.pw/>        |                                         | 250              |
-<http://qt.cx/>         |                                         | 50               | Currently down
 <http://up.asis.io/>    |                                         | 50               |
 <http://up.che.moe/>    |                                         | 50               |
 <http://catbox.moe/>    |                                         | 200              | JS-free
