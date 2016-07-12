@@ -6,7 +6,7 @@
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
 <https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 100              | Paste
-<https://mokou.tk/>     | <https://github.com/sora-chan/wakaba>   | 128              | JS-free, paste
+<https://mokou.tk/>     | <https://github.com/sora-chan/wakaba>   | 128              | Currently down, JS-free, paste
 <http://lainfile.pw/>   | <https://gitla.in/installgen2/flup>     | 8                | Public uploads, JS-free, original filenames
 <http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
                         | <https://github.com/Guad/fuwa>          |                  | JS-free
