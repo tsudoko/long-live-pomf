@@ -1,7 +1,7 @@
  Website                | Source code                             | Size limit (MiB) | Notes
 ------------------------|-----------------------------------------|------------------|-------
 <https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe> | 100             | Paste, voice
-<https://cuntflaps.me/> | <https://github.com/pomf/pomf>          | 500              | UserCP, Paste, SFW Option
+<https://cuntflaps.me/> | <https://github.com/pomf/pomf>          | 500              | Paste, SFW Option
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
