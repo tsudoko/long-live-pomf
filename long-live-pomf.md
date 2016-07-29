@@ -24,7 +24,7 @@
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.amatsuka.com/> |                                    | 500              |
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
-<https://pomf.pikami.tk/> |                                       | 50               | Paste
+<https://pomf.pikami.tk/> |                                       | 50               | Currently down, paste
 <https://pomfe.co/>     |                                         | 100              |
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://filedropper.pw/> |                                       | 75               |
