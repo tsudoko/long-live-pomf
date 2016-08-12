@@ -16,7 +16,7 @@
 <https://filebunker.pw/> |                                        | 100              |
 <https://cocaine.ninja/> |                                        | 32               | JS-free
 <https://kyaa.sg/>      |                                         | 100              | JS-free
-<https://p.fuwafuwa.moe/> |                                       | 50               |
+<https://p.fuwafuwa.moe/> |                                       | 50               | JS-free
 <https://pomf.cat/>     |                                         | 75               |
 <https://desu.sh/>      |                                         | 512              | Rude, JS-free
 <https://u.xpw.us/>     |                                         | 100              | Paste
