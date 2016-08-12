@@ -33,7 +33,7 @@
 <http://www.shanatan.moe/> |                                      | 50               |
 <http://up.asis.io/>    |                                         | 50               |
 <http://up.che.moe/>    |                                         | 50               |
-<http://pomf.vykr.xyz/> |                                         | 256              | JS-free
+<http://pomf.vykr.xyz/> |                                         | 256              | Currently down, JS-free
 <http://catbox.moe/>    |                                         | 200              | JS-free
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
