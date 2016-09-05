@@ -41,7 +41,7 @@ using the Pomf API.
 
 Alternative lists (both much more detailed than this one):
  - <https://docs.google.com/spreadsheets/d/1kh1TZdtyX7UlRd55OBxf7DB-JGj2rsfWckI0FPQRYhE/edit>
- - <https://notabug.org/WubTheCaptain/deathwatch-pomf> (looks like it's no longer updated)
+ - <https://notabug.org/WubTheCaptain/deathwatch-pomf> (no longer updated)
 
 [0]: http://ipfs.io/
 [1]: https://fluntcaps.me/
