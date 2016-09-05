@@ -11,6 +11,7 @@
                         | <https://github.com/Guad/fuwa>          |                  | JS-free
                         | <https://github.com/sora-chan/wakaba>   |                  | JS-free
                         | <https://github.com/kimoi/madokami.com> |                  |
+<https://maro.xyz/>     | <https://github.com/Kiniamaro/maro.xyz-website> | 50       | url-shortner
 <https://steamy.moe/>   |                                         | 512              | Nice colors
 <https://comfy.moe/>    |                                         | 512              |
 <https://filebunker.pw/> |                                        | 100              |
@@ -28,7 +29,6 @@
 <https://filedropper.pw/> |                                       | 75               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
 <https://vidga.me/>     |                                         | 100              | JS-free
-<https://maro.xyz/>     |                                         | 50               | url-shortner
 <http://glop.me/>       |                                         | 10               | Uses [IPFS][0], paste
 <http://rfl.pw/>        |                                         | 250              |
 <http://www.shanatan.moe/> |                                      | 50               |
