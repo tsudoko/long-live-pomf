@@ -22,7 +22,6 @@
 <https://desu.sh/>      |                                         | 2048             | Rude, JS-free
 <https://u.xpw.us/>     |                                         | 100              | Paste
 <https://g.zxq.co/>     |                                         | 80               |
-<https://pomf.amatsuka.com/> |                                    | 500              |
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
 <https://pomfe.co/>     |                                         | 100              |
 <https://pomf.lesderid.net/> |                                    | 50               |
