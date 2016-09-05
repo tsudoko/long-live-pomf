@@ -7,6 +7,7 @@
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
 <https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 256              | Paste
 <https://maro.xyz/>     | <https://github.com/Kiniamaro/maro.xyz-website> | 50       |
+<https://pomfe.co/>     | <https://github.com/LoliHook/pomfe.co>  | 100              |
 <http://lainfile.pw/>   | <https://gitla.in/installgen2/flup>     | 8                | Public uploads, JS-free, original filenames
                         | <https://github.com/Guad/fuwa>          |                  | JS-free
                         | <https://github.com/sora-chan/wakaba>   |                  | JS-free
@@ -23,7 +24,6 @@
 <https://u.xpw.us/>     |                                         | 100              | Paste
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
-<https://pomfe.co/>     |                                         | 100              |
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://filedropper.pw/> |                                       | 75               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
