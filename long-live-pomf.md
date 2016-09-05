@@ -28,6 +28,7 @@
 <https://filedropper.pw/> |                                       | 75               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
 <https://vidga.me/>     |                                         | 100              | JS-free
+<https://maro.xyz/>     |                                         | 50               | url-shortner
 <http://glop.me/>       |                                         | 10               | Uses [IPFS][0], paste
 <http://rfl.pw/>        |                                         | 250              |
 <http://www.shanatan.moe/> |                                      | 50               |
@@ -35,6 +36,7 @@
 <http://up.che.moe/>    |                                         | 50               |
 <http://pomf.vykr.xyz/> |                                         | 256              | Currently down, JS-free
 <http://catbox.moe/>    |                                         | 200              | JS-free
+
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
