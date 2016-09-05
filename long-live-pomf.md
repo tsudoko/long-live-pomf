@@ -12,7 +12,7 @@
                         | <https://github.com/sora-chan/wakaba>   |                  | JS-free
                         | <https://github.com/kimoi/madokami.com> |                  |
                         | <https://github.com/bohrmeista/1338>    |                  |
-<https://steamy.moe/>   |                                         | 512              | Nice colors
+<https://yiff.moe/>     |                                         | 512              | Nice colors
 <https://comfy.moe/>    |                                         | 512              |
 <https://filebunker.pw/> |                                        | 100              |
 <https://cocaine.ninja/> |                                        | 32               | JS-free
