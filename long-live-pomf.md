@@ -33,7 +33,6 @@
 <http://www.shanatan.moe/> |                                      | 50               |
 <http://up.asis.io/>    |                                         | 50               |
 <http://up.che.moe/>    |                                         | 50               |
-<http://pomf.vykr.xyz/> |                                         | 256              | Currently down, JS-free
 <http://catbox.moe/>    |                                         | 200              | JS-free
 
 
