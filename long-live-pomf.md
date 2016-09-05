@@ -8,10 +8,10 @@
 <https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 256              | Paste
 <https://maro.xyz/>     | <https://github.com/Kiniamaro/maro.xyz-website> | 50       |
 <http://lainfile.pw/>   | <https://gitla.in/installgen2/flup>     | 8                | Public uploads, JS-free, original filenames
-<http://1339.cf/>       | <https://github.com/bohrmeista/1338>    | 100              |
                         | <https://github.com/Guad/fuwa>          |                  | JS-free
                         | <https://github.com/sora-chan/wakaba>   |                  | JS-free
                         | <https://github.com/kimoi/madokami.com> |                  |
+                        | <https://github.com/bohrmeista/1338>    |                  |
 <https://steamy.moe/>   |                                         | 512              | Nice colors
 <https://comfy.moe/>    |                                         | 512              |
 <https://filebunker.pw/> |                                        | 100              |
