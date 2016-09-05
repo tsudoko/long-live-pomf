@@ -14,24 +14,24 @@
                         | <https://github.com/sora-chan/wakaba>   |                  | JS-free
                         | <https://github.com/kimoi/madokami.com> |                  |
                         | <https://github.com/bohrmeista/1338>    |                  |
-<https://yiff.moe/>     |                                         | 512              | Nice colors
 <https://comfy.moe/>    |                                         | 512              |
-<https://filebunker.pw/> |                                        | 100              |
-<https://cocaine.ninja/> |                                        | 32               | JS-free
-<https://kyaa.sg/>      |                                         | 100              | JS-free
-<https://p.fuwafuwa.moe/> |                                       | 50               | JS-free
 <https://pomf.cat/>     |                                         | 75               |
+<https://p.fuwafuwa.moe/> |                                       | 50               | JS-free
+<https://pomf.lesderid.net/> |                                    | 50               |
 <https://desu.sh/>      |                                         | 2048             | Rude, JS-free
 <https://u.xpw.us/>     |                                         | 100              | Paste
+<https://kyaa.sg/>      |                                         | 100              | JS-free
+<https://yiff.moe/>     |                                         | 512              | Nice colors
 <https://g.zxq.co/>     |                                         | 80               |
-<https://pomf.pyonpyon.moe/> |                                    | 50               |
-<https://pomf.lesderid.net/> |                                    | 50               |
+<https://filebunker.pw/> |                                        | 100              |
 <https://filedropper.pw/> |                                       | 75               |
+<https://cocaine.ninja/> |                                        | 32               | JS-free
+<https://pomf.pyonpyon.moe/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
 <https://vidga.me/>     |                                         | 100              | JS-free
+<http://up.asis.io/>    |                                         | 50               |
 <http://rfl.pw/>        |                                         | 250              |
 <http://www.shanatan.moe/> |                                      | 50               |
-<http://up.asis.io/>    |                                         | 50               |
 <http://up.che.moe/>    |                                         | 50               |
 <http://catbox.moe/>    |                                         | 200              | JS-free
 
