@@ -19,7 +19,7 @@
 <https://kyaa.sg/>      |                                         | 100              | JS-free
 <https://p.fuwafuwa.moe/> |                                       | 50               | JS-free
 <https://pomf.cat/>     |                                         | 75               |
-<https://desu.sh/>      |                                         | 512              | Rude, JS-free
+<https://desu.sh/>      |                                         | 2048             | Rude, JS-free
 <https://u.xpw.us/>     |                                         | 100              | Paste
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.amatsuka.com/> |                                    | 500              |
