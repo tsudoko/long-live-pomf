@@ -15,7 +15,6 @@
                         | <https://github.com/kimoi/madokami.com> |                  |
                         | <https://github.com/bohrmeista/1338>    |                  |
 <https://comfy.moe/>    |                                         | 512              |
-<https://pomf.cat/>     |                                         | 75               |
 <https://p.fuwafuwa.moe/> |                                       | 50               | JS-free
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://desu.sh/>      |                                         | 2048             | Rude, JS-free
@@ -25,6 +24,7 @@
 <https://g.zxq.co/>     |                                         | 80               |
 <https://filebunker.pw/> |                                        | 100              |
 <https://filedropper.pw/> |                                       | 75               |
+<https://pomf.cat/>     |                                         | 75               |
 <https://cocaine.ninja/> |                                        | 32               | JS-free
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
