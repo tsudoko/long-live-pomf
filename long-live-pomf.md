@@ -20,7 +20,6 @@
 <https://pomf.lesderid.net/> |                                    | 50               |
 <https://desu.sh/>      |                                         | 2048             | Rude, JS-free
 <https://u.xpw.us/>     |                                         | 100              | Paste
-<https://kyaa.sg/>      |                                         | 100              | JS-free
 <https://yiff.moe/>     |                                         | 512              | Nice colors, metadata stripping
 <https://g.zxq.co/>     |                                         | 80               |
 <https://filebunker.pw/> |                                        | 100              |
