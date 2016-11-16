@@ -27,7 +27,7 @@
 <https://pomf.cat/>     |                                         | 75               |
 <https://cocaine.ninja/> |                                        | 32               | JS-free
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
-<https://sugoi.vidyagam.es/> |                                    | 50               | Nice colors, paste
+<https://sugoi.vidyagam.es/> |                                    | 100              | Nice colors, paste
 <https://vidga.me/>     |                                         | 100              | JS-free
 <http://up.asis.io/>    |                                         | 50               |
 <http://rfl.pw/>        |                                         | 250              |
