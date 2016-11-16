@@ -6,6 +6,7 @@
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
 <https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 256              | Paste
+<https://nya.is/>       | <https://github.com/nya/cpomf>          | 100              |
 <https://maro.xyz/>     | <https://github.com/Kiniamaro/maro.xyz-website> | 50       |
 <https://pomfe.co/>     | <https://github.com/LoliHook/pomfe.co>  | 100              |
 <https://lainfile.pw/>  | <https://gitla.in/installgen2/flup>     | 8                | Public uploads, JS-free, original filenames
