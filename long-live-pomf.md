@@ -39,7 +39,8 @@
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
 
-Alternative lists (both much more detailed than this one):
+Alternative lists (much more detailed than this one):
+ - <https://inaccessible.cf/pomf/>
  - <https://docs.google.com/spreadsheets/d/1kh1TZdtyX7UlRd55OBxf7DB-JGj2rsfWckI0FPQRYhE/edit>
  - <https://notabug.org/WubTheCaptain/deathwatch-pomf> (no longer updated)
 
