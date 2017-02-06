@@ -1,7 +1,6 @@
  Website                | Source code                             | Size limit (MiB) | Notes
 ------------------------|-----------------------------------------|------------------|-------
 <https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe> | 100             | Paste, voice
-<https://cuntflaps.me/> | <https://github.com/pomf/pomf>          | 200              | JS-free, paste, [SFW domain][1]
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
 <https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
@@ -60,4 +59,3 @@ Alternative lists (much more detailed than this one):
  - <https://notabug.org/WubTheCaptain/deathwatch-pomf> (no longer updated)
 
 [0]: http://ipfs.io/
-[1]: https://fluntcaps.me/
