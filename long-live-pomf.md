@@ -2,7 +2,6 @@
 ------------------------|-----------------------------------------|------------------|-------
 <https://mixtape.moe/>  | <https://gitgud.io/Sapphire/mixtape.moe> | 100             | Paste, voice
 <https://chen.2hu.moe/> | <https://github.com/silentdragonz/chen> | 50               |
-<https://fuwa.se/>      | <https://github.com/Luminarys/Eientei>  | 32               |
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
 <https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 256              | Paste
 <https://nya.is/>       | <https://github.com/nya/cpomf>          | 100              |
@@ -14,6 +13,7 @@
 <https://lainfile.pw/>  | <https://gitla.in/installgen2/flup>     | 8                | Public uploads, JS-free, original filenames
 <http://glop.me/>       | <https://github.com/2yrs/Pomf>          | 10               | Uses [IPFS][0], paste
                         | <https://github.com/Guad/fuwa>          |                  | JS-free
+                        | <https://github.com/Luminarys/Eientei>  |                  |
                         | <https://github.com/sora-chan/wakaba>   |                  | JS-free
                         | <https://github.com/kimoi/madokami.com> |                  |
                         | <https://github.com/bohrmeista/1338>    |                  |
