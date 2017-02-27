@@ -39,6 +39,7 @@
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 100              | Nice colors, paste
 <https://vidga.me/>     |                                         | 100              | JS-free
+<https://catbox.moe/>   |                                         | 200              | JS-free
 <http://magnolia.moe/>  |                                         | 100              | JS-free, deletion links
 <http://up.asis.io/>    |                                         | 50               |
 <http://rfl.pw/>        |                                         | 250              |
@@ -46,7 +47,6 @@
 <http://a.lucar.io/>    |                                         | 128              | JS-free
 <http://www.shanatan.moe/> |                                      | 50               |
 <http://up.che.moe/>    |                                         | 50               |
-<http://catbox.moe/>    |                                         | 200              | JS-free
 
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
