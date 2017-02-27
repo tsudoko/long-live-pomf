@@ -22,7 +22,6 @@
 <https://comfy.moe/>    |                                         | 512              |
 <https://p.fuwafuwa.moe/> |                                       | 50               | JS-free
 <https://desu.sh/>      |                                         | 2048             | Rude, JS-free
-<https://u.xpw.us/>     |                                         | 100              | Paste
 <https://nyah.moe/>     |                                         | 10               | Currently down
 <https://jazu.moe/>     |                                         | 99               | Currently down
 <https://yiff.moe/>     |                                         | 512              | Nice colors, metadata stripping
