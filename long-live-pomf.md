@@ -43,7 +43,6 @@
 <http://magnolia.moe/>  |                                         | 100              | Currently down, JS-free, deletion links
 <http://rfl.pw/>        |                                         | 250              |
 <http://hauu.io/>       |                                         | 128              | JS-free
-<http://a.lucar.io/>    |                                         | 128              | JS-free
 <http://www.shanatan.moe/> |                                      | 50               |
 <http://up.che.moe/>    |                                         | 50               |
 
