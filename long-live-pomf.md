@@ -6,6 +6,7 @@
 <https://jii.moe/>      | <https://github.com/oohnoitz/jii>       | 150              | JS-free
 <https://aww.moe/>      | <https://github.com/maxpowa/npomf>      | 256              | Paste
 <https://nya.is/>       | <https://github.com/nya/cpomf>          | 100              |
+<https://safe.moe/>     | <https://github.com/WeebDev/loli-safe>  | 200              | Paste
 <https://maro.xyz/>     | <https://github.com/Kiniamaro/maro.xyz-website> | 50       |
 <https://pomfe.co/>     | <https://github.com/H3X-Dev/pomfe.co>   | 312              |
 <https://pomf.cat/>     | <https://github.com/banksymate/Pomf>    | 75               |
