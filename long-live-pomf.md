@@ -34,13 +34,13 @@
 <https://minifiles.net/> |                                        | 100              |
 <https://lewd.es/>      |                                         | 500              | JS-free
 <https://biyori.moe/>   |                                         | 100              |
-<https://null.vg/>      |                                         | 128              | JS-free
+<https://null.vg/>      |                                         | 128              |
 <https://cocaine.ninja/> |                                        | 32               | JS-free
 <https://pomf.pyonpyon.moe/> |                                    | 50               |
 <https://sugoi.vidyagam.es/> |                                    | 100              | Nice colors, paste
 <https://vidga.me/>     |                                         | 100              | JS-free
 <https://catbox.moe/>   |                                         | 200              | JS-free
-<http://magnolia.moe/>  |                                         | 100              | JS-free, deletion links
+<http://magnolia.moe/>  |                                         | 100              | Currently down, JS-free, deletion links
 <http://up.asis.io/>    |                                         | 50               |
 <http://rfl.pw/>        |                                         | 250              |
 <http://hauu.io/>       |                                         | 128              | JS-free
