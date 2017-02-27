@@ -21,7 +21,7 @@
 <https://citron.pw/>    |                                         | 128              | Currently down, JS-free
 <https://comfy.moe/>    |                                         | 512              |
 <https://p.fuwafuwa.moe/> |                                       | 50               | JS-free
-<https://desu.sh/>      |                                         | 2048             | Rude, JS-free
+<https://doko.moe/>     |                                         | 2048             | Rude, JS-free
 <https://nyah.moe/>     |                                         | 10               | Currently down
 <https://jazu.moe/>     |                                         | 99               | Currently down
 <https://yiff.moe/>     |                                         | 512              | Nice colors, metadata stripping
