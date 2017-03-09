@@ -27,7 +27,7 @@
 <https://yiff.moe/>     |                                         | 512              | Nice colors, metadata stripping
 <https://g.zxq.co/>     |                                         | 80               |
 <https://pomf.sinister.ly/> |                                     | 100              |
-<https://filebox.moe/>  |                                         | 100              | Nice colors
+<https://filebox.moe/>  |                                         | 1000             | Nice colors, JS-free
 <https://konch.xyz/>    |                                         | 5120             |
 <https://filebunker.pw/> |                                        | 100              | Currently down
 <https://minifiles.net/> |                                        | 100              |
