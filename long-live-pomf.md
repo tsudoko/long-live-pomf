@@ -17,7 +17,7 @@
 |                         | https://github.com/sora-chan/wakaba     |                  | JS-free
 |                         | https://github.com/kimoi/madokami.com   |                  |
 |                         | https://github.com/bohrmeista/1338      |                  |
-| https://nup.pw/         |                                         | 50               | JS-free
+| https://nup.pw/         |                                         | 150              | JS-free
 | https://comfy.moe/      |                                         | 512              |
 | https://p.fuwafuwa.moe/ |                                         | 50               | JS-free
 | https://doko.moe/       |                                         | 2048             | Rude, JS-free
