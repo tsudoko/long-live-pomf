@@ -21,19 +21,19 @@
 | https://comfy.moe/      |                                         | 512              |
 | https://p.fuwafuwa.moe/ |                                         | 50               | JS-free
 | https://doko.moe/       |                                         | 2048             | Rude, JS-free
+| https://catbox.moe/     |                                         | 200              | JS-free
+| https://biyori.moe/     |                                         | 100              |
+| https://sugoi.vidyagam.es/ |                                      | 100              | Nice colors, pastebin
+| https://vidga.me/       |                                         | 100              | JS-free
 | https://yiff.moe/       |                                         | 512              | Nice colors, metadata stripping
 | https://pomf.sinister.ly/ |                                       | 100              |
 | https://filebox.moe/    |                                         | 1000             | Nice colors, JS-free
 | https://minifiles.net/  |                                         | 100              |
 | https://lewd.es/        |                                         | 500              | JS-free
-| https://biyori.moe/     |                                         | 100              |
 | https://null.vg/        |                                         | 128              |
 | https://up.asis.io/     |                                         | 100              |
 | https://cocaine.ninja/  |                                         | 32               | JS-free
 | https://pomf.pyonpyon.moe/ |                                      | 50               |
-| https://sugoi.vidyagam.es/ |                                      | 100              | Nice colors, pastebin
-| https://vidga.me/       |                                         | 100              | JS-free
-| https://catbox.moe/     |                                         | 200              | JS-free
 | http://rfl.pw/          |                                         | 250              |
 | http://hauu.io/         |                                         | 128              | JS-free
 | http://up.che.moe/      |                                         | 50               |
