@@ -7,7 +7,7 @@
 | https://safe.moe/       | https://github.com/WeebDev/loli-safe    | 200              | Pastebin
 | https://maro.xyz/       | https://github.com/Kiniamaro/maro.xyz-website | 50         |
 | https://pomfe.co/       | https://github.com/H3X-Dev/pomfe.co     | 100              |
-| https://pomf.cat/       | https://github.com/banksymate/Pomf      | 75               |
+| https://pomf.cat/       | https://github.com/banksymate/Pomf      | 75               | Currently down
 | https://void.cat/       | https://github.com/v0l/void.cat         | 2048             |
 | https://lainfile.pw/    | https://gitla.in/installgen2/flup       | 8                | Public uploads, JS-free, original filenames
 | http://glop.me/         | https://github.com/2yrs/Pomf            | 10               | Uses [IPFS][0], pastebin
