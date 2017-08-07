@@ -27,7 +27,7 @@
 | https://vidga.me/       |                                         | 100              | JS-free
 | https://yiff.moe/       |                                         | 512              | Nice colors, metadata stripping
 | https://pomf.sinister.ly/ |                                       | 100              |
-| https://filebox.moe/    |                                         | 1000             | Nice colors, JS-free
+| https://filebox.moe/    |                                         | 3000             | Nice colors, JS-free
 | https://minifiles.net/  |                                         | 100              |
 | https://lewd.es/        |                                         | 500              | JS-free
 | https://null.vg/        |                                         | 128              |
