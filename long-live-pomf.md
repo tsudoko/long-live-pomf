@@ -25,11 +25,11 @@
 | https://biyori.moe/     |                                         | 100              |
 | https://sugoi.vidyagam.es/ |                                      | 100              | Nice colors, pastebin
 | https://vidga.me/       |                                         | 100              | JS-free
-| https://yiff.moe/       |                                         | 512              | Nice colors, metadata stripping
+| https://yiff.moe/       |                                         | 512              | Currently down, Nice colors, metadata stripping
 | https://pomf.sinister.ly/ |                                       | 100              |
 | https://filebox.moe/    |                                         | 3000             | Nice colors, JS-free
 | https://minifiles.net/  |                                         | 100              |
-| https://lewd.es/        |                                         | 500              | JS-free
+| https://lewd.es/        |                                         | 500              | Currently down, JS-free
 | https://null.vg/        |                                         | 128              |
 | https://up.asis.io/     |                                         | 100              |
 | https://cocaine.ninja/  |                                         | 32               | JS-free
