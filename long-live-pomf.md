@@ -29,7 +29,7 @@
 | https://pomf.sinister.ly/ |                                       | 100              |                                   | Up 
 | https://filebox.moe/    |                                         | 3000             | Nice colors, JS-free              | Up 
 | https://minifiles.net/  |                                         | 100              |                                   | Up 
-| https://lewd.es/        |                                         | 500              | JS-free                           | Up 
+| https://lewd.es/        |                                         | 500              | JS-free                           | Down 
 | https://null.vg/        |                                         | 128              |                                   | Up 
 | https://up.asis.io/     |                                         | 100              |                                   | Up 
 | https://cocaine.ninja/  |                                         | 32               | JS-free                           | Up 
