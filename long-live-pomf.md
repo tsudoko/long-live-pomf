@@ -1,5 +1,5 @@
 | Website                 | Source code                             | Size limit (MiB) | Notes                             | Status 
-|-------------------------|-----------------------------------------|------------------|-----------------------------------|--------
+|-------------------------|-----------------------------------------|------------------|-----------------------------------|---------
 | https://mixtape.moe/    | https://gitgud.io/Sapphire/mixtape.moe  | 100              | Pastebin, voice                   | Down (07/Aug/17) 
 | https://chen.2hu.moe/   | https://github.com/silentdragonz/chen   | 50               |                                   | Up 
 | https://jii.moe/        | https://github.com/oohnoitz/jii         | 150              | JS-free                           | Down (01/Aug/17) 
@@ -43,7 +43,7 @@ JS-free means the site works without enabling JavaScript. Most sites that look l
 using the Pomf API.
 
 Alternative lists (much more detailed than this one):
- - https://inaccessible.cf/pomf/
+ - https://inaccessible.cf/pomf/ (Down)
  - https://docs.google.com/spreadsheets/d/1kh1TZdtyX7UlRd55OBxf7DB-JGj2rsfWckI0FPQRYhE/edit
  - https://notabug.org/WubTheCaptain/deathwatch-pomf (no longer updated)
 
