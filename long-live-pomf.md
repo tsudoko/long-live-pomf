@@ -3,7 +3,6 @@
 | https://mixtape.moe/    | https://gitgud.io/Sapphire/mixtape.moe  | 100              | Pastebin, voice
 | https://chen.2hu.moe/   | https://github.com/silentdragonz/chen   | 50               |
 | https://jii.moe/        | https://github.com/oohnoitz/jii         | 150              | Currently down, JS-free
-|                         | https://github.com/nya/cpomf            |                  |
 | https://safe.moe/       | https://github.com/WeebDev/loli-safe    | 200              | Pastebin
 | https://maro.xyz/       | https://github.com/Kiniamaro/maro.xyz-website | 50         |
 | https://pomfe.co/       | https://github.com/H3X-Dev/pomfe.co     | 100              |
@@ -17,6 +16,7 @@
 |                         | https://github.com/sora-chan/wakaba     |                  | JS-free
 |                         | https://github.com/kimoi/madokami.com   |                  |
 |                         | https://github.com/bohrmeista/1338      |                  |
+|                         | https://github.com/nya/cpomf            |                  |
 | https://nup.pw/         |                                         | 150              | JS-free
 | https://comfy.moe/      |                                         | 512              |
 | https://p.fuwafuwa.moe/ |                                         | 50               | JS-free
