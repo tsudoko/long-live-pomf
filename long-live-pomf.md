@@ -1,6 +1,6 @@
 | Website                    | Status           | Source code                                   | Size limit (MiB) | Notes
 |----------------------------|------------------|-----------------------------------------------|-----------------:|---------------------------------------------
-| https://mixtape.moe/       | Down (07/Aug/17) | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
+| https://mixtape.moe/       | Up               | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
 | https://chen.2hu.moe/      | Up               | https://github.com/silentdragonz/chen         |               50 |
 | https://jii.moe/           | Down (01/Aug/17) | https://github.com/oohnoitz/jii               |              150 | JS-free
 | https://safe.moe/          | Up               | https://github.com/WeebDev/loli-safe          |              200 | Pastebin
@@ -27,7 +27,7 @@
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://yiff.moe/          | Down             |                                               |              512 | Nice colors, metadata stripping
 | https://pomf.sinister.ly/  | Up               |                                               |              100 |
-| https://filebox.moe/       | Up               |                                               |             3000 | Nice colors, JS-free
+| https://filebox.moe/       | Down (03/Sep/17) |                                               |             3000 | Nice colors, JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
 | https://lewd.es/           | Down             |                                               |              500 | JS-free
 | https://null.vg/           | Up               |                                               |              128 |
