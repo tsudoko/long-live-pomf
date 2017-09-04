@@ -27,7 +27,7 @@
 | https://vidga.me/          | Up               |                                               |              100 | JS-free                                     
 | https://yiff.moe/          | Down             |                                               |              512 | Nice colors, metadata stripping             
 | https://pomf.sinister.ly/  | Up               |                                               |              100 |                                             
-| https://filebox.moe/       | Up               |                                               |             3000 | Nice colors, JS-free                        
+| https://filebox.moe/       | Down (04/Sep/17) |                                               |             3000 | Nice colors, JS-free                        
 | https://minifiles.net/     | Up               |                                               |              100 |                                             
 | https://lewd.es/           | Up               |                                               |              500 | JS-free                                     
 | https://null.vg/           | Up               |                                               |              128 |                                             
