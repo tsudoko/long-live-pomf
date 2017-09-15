@@ -38,7 +38,6 @@
 | http://hauu.io/            | Up               |                                               |              128 | JS-free
 | http://up.che.moe/         | Up               |                                               |               50 |
 
-
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
 
