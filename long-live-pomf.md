@@ -17,7 +17,7 @@
 |                            |                  | https://github.com/kimoi/madokami.com         |                  |
 |                            |                  | https://github.com/bohrmeista/1338            |                  |
 |                            |                  | https://github.com/nya/cpomf                  |                  |
-| https://nup.pw/            | Up               |                                               |              150 | JS-free
+| https://nup.pw/            | Down (01/Oct-17) |                                               |              150 | JS-free
 | https://comfy.moe/         | Up               |                                               |              512 |
 | https://p.fuwafuwa.moe/    | Up               |                                               |               50 | JS-free
 | https://doko.moe/          | Up               |                                               |             2048 | Rude, JS-free
@@ -26,16 +26,16 @@
 | https://sugoi.vidyagam.es/ | Up               |                                               |              100 | Nice colors, pastebin
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://yiff.moe/          | Down             |                                               |              512 | Nice colors, metadata stripping
-| https://pomf.sinister.ly/  | Up               |                                               |              100 |
+| https://pomf.sinister.ly/  | Down (01/Oct-17) |                                               |              100 |
 | https://filebox.moe/       | Down (03/Sep/17) |                                               |             3000 | Nice colors, JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
 | https://lewd.es/           | Down             |                                               |              500 | JS-free
-| https://null.vg/           | Up               |                                               |              128 |
+| https://null.vg/           | Down (01/Oct-17) |                                               |              128 |
 | https://up.asis.io/        | Up               |                                               |              100 |
 | https://cocaine.ninja/     | Up               |                                               |               32 | JS-free
 | https://pomf.pyonpyon.moe/ | Up               |                                               |               50 |
 | http://rfl.pw/             | Up               |                                               |              250 |
-| http://hauu.io/            | Up               |                                               |              128 | JS-free
+| http://hauu.io/            | Down (01/Oct-17) |                                               |              128 | JS-free
 | http://up.che.moe/         | Up               |                                               |               50 |
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
