@@ -26,7 +26,6 @@
 | https://sugoi.vidyagam.es/ | Up               |                                               |              100 | Nice colors, pastebin
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://yiff.moe/          | Down             |                                               |              512 | Nice colors, metadata stripping
-| http://pomf.sinister.ly/   | Up               |                                               |              100 | Not secure - http only
 | https://filebox.moe/       | Down (03/Sep/17) |                                               |             3000 | Nice colors, JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
 | https://lewd.es/           | Down             |                                               |              500 | JS-free
@@ -37,6 +36,7 @@
 | http://rfl.pw/             | Up               |                                               |              250 |
 | http://hauu.io/            | Down (01/Oct/17) |                                               |              128 | JS-free
 | http://up.che.moe/         | Up               |                                               |               50 |
+| http://pomf.sinister.ly/   | Up               |                                               |              100 | 
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
