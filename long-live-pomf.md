@@ -36,7 +36,7 @@
 | http://rfl.pw/             | Up               |                                               |              250 |
 | http://hauu.io/            | Down (01/Oct/17) |                                               |              128 | JS-free
 | http://up.che.moe/         | Up               |                                               |               50 |
-| http://pomf.sinister.ly/   | Up               |                                               |              100 | 
+| http://pomf.sinister.ly/   | Up               |                                               |              100 |
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
