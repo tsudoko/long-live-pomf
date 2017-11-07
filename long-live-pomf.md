@@ -20,7 +20,7 @@
 | https://nup.pw/            | Down (01/Oct/17) |                                               |              150 | JS-free
 | https://comfy.moe/         | Up               |                                               |              512 |
 | https://p.fuwafuwa.moe/    | Up               |                                               |               50 | JS-free
-| https://doko.moe/          | Up (having issues)|                                              |              512 | Rude, JS-free
+| https://doko.moe/          | Up               |                                               |              512 | Rude, JS-free
 | https://catbox.moe/        | Up               |                                               |              200 | JS-free
 | https://biyori.moe/        | Up               |                                               |              100 |
 | https://sugoi.vidyagam.es/ | Up               |                                               |              100 | Nice colors, pastebin
