@@ -17,10 +17,10 @@
 |                            |                  | https://github.com/nya/cpomf                  |                  |
 | https://comfy.moe/         | Up               |                                               |              512 |
 | https://p.fuwafuwa.moe/    | Up               |                                               |               50 | JS-free
-| https://doko.moe/          | Up               |                                               |              512 | Rude, JS-free
+| https://doko.moe/          | Up               |                                               |              512 | JS-free
 | https://catbox.moe/        | Up               |                                               |              200 | JS-free
 | https://biyori.moe/        | Up               |                                               |              100 |
-| https://sugoi.vidyagam.es/ | Up               |                                               |              100 | Nice colors, pastebin
+| https://sugoi.vidyagam.es/ | Up               |                                               |              100 | Pastebin
 | https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
