@@ -9,7 +9,7 @@
 | https://void.cat/          | Up               | https://github.com/v0l/void.cat               |             2048 |
 | http://glop.me/            | Down             | https://github.com/2yrs/Pomf                  |               10 | Uses [IPFS][0], pastebin
 |                            |                  | https://github.com/maxpowa/npomf              |                  |
-|                |           |                  | https://github.com/silentdragonz/chen         |                  |
+|                            |                  | https://github.com/silentdragonz/chen         |                  |
 |                            |                  | https://github.com/Guad/fuwa                  |                  | JS-free
 |                            |                  | https://github.com/Luminarys/Eientei          |                  |
 |                            |                  | https://github.com/sora-chan/wakaba           |                  | JS-free
