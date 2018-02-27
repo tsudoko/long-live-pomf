@@ -24,6 +24,7 @@
 | https://catbox.moe/        | Up               |                                               |              200 | JS-free
 | https://biyori.moe/        | Up               |                                               |              100 |
 | https://sugoi.vidyagam.es/ | Up               |                                               |              100 | Nice colors, pastebin
+| https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://yiff.moe/          | Down             |                                               |              512 | Nice colors, metadata stripping
 | https://filebox.moe/       | Down (03/Sep/17) |                                               |             3000 | Nice colors, JS-free
