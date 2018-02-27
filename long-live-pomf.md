@@ -2,6 +2,7 @@
 |----------------------------|------------------|-----------------------------------------------|-----------------:|---------------------------------------------
 | https://mixtape.moe/       | Up               | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
 | https://safe.moe/          | Up               | https://github.com/WeebDev/loli-safe          |              200 | Pastebin
+| https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
 | https://maro.xyz/          | Up               | https://github.com/Kiniamaro/maro.xyz-website |               50 |
 | https://pomfe.co/          | Up               | https://github.com/H3X-Dev/pomfe.co           |              100 |
 | https://pomf.cat/          | Up               | https://github.com/banksymate/Pomf            |               75 |
@@ -21,7 +22,6 @@
 | https://catbox.moe/        | Up               |                                               |              200 | JS-free
 | https://biyori.moe/        | Up               |                                               |              100 |
 | https://sugoi.vidyagam.es/ | Up               |                                               |              100 | Pastebin
-| https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
 | https://up.asis.io/        | Down             |                                               |              100 |
