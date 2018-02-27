@@ -6,7 +6,7 @@
 | https://pomfe.co/          | Up               | https://github.com/H3X-Dev/pomfe.co           |              100 |
 | https://pomf.cat/          | Up               | https://github.com/banksymate/Pomf            |               75 |
 | https://void.cat/          | Up               | https://github.com/v0l/void.cat               |             2048 |
-| http://glop.me/            | Up               | https://github.com/2yrs/Pomf                  |               10 | Uses [IPFS][0], pastebin
+| http://glop.me/            | Down             | https://github.com/2yrs/Pomf                  |               10 | Uses [IPFS][0], pastebin
 |                            |                  | https://github.com/maxpowa/npomf              |                  |
 |                |           |                  | https://github.com/silentdragonz/chen         |                  |
 |                            |                  | https://github.com/Guad/fuwa                  |                  | JS-free
@@ -24,10 +24,10 @@
 | https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
-| https://up.asis.io/        | Up               |                                               |              100 |
+| https://up.asis.io/        | Down             |                                               |              100 |
 | https://cocaine.ninja/     | Up               |                                               |               32 | JS-free
 | https://pomf.pyonpyon.moe/ | Up               |                                               |               50 |
-| http://rfl.pw/             | Up               |                                               |              250 |
+| http://rfl.pw/             | Down             |                                               |              250 |
 | http://up.che.moe/         | Up               |                                               |               50 |
 | http://pomf.sinister.ly/   | Up               |                                               |              100 |
 
