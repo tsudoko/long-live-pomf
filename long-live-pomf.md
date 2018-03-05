@@ -3,7 +3,7 @@
 | https://mixtape.moe/       | Up               | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
 | https://safe.moe/          | Up               | https://github.com/WeebDev/loli-safe          |              200 | Pastebin
 | https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
-| https://plexle.fi          | Up               | https://github.com/pomf/pomf                  |               20 | Zero Logs               
+| https://plexle.fi          | Up               | https://github.com/pomf/pomf                  |               20 | Zero Logs.               
 | https://maro.xyz/          | Up               | https://github.com/Kiniamaro/maro.xyz-website |               50 |
 | https://pomfe.co/          | Up               | https://github.com/H3X-Dev/pomfe.co           |              100 |
 | https://pomf.cat/          | Up               | https://github.com/banksymate/Pomf            |               75 |
