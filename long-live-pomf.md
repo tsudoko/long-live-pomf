@@ -24,7 +24,7 @@
 | https://comfy.moe/         | Up               |                                               |              512 |
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
-| https://up.asis.io/        | Down             |                                               |              100 |
+| https://up.asis.io/        | Up               |                                               |              100 |
 | https://cocaine.ninja/     | Up               |                                               |               32 | JS-free
 | https://pomf.pyonpyon.moe/ | Up               |                                               |               50 |
 | https://anticapitalism.party/ | Up            |                                               |              512 |
