@@ -16,12 +16,12 @@
 |                            |                  | https://github.com/kimoi/madokami.com         |                  |
 |                            |                  | https://github.com/bohrmeista/1338            |                  |
 |                            |                  | https://github.com/nya/cpomf                  |                  |
-| https://comfy.moe/         | Up               |                                               |              512 |
 | https://p.fuwafuwa.moe/    | Up               |                                               |               50 | JS-free
 | https://doko.moe/          | Up               |                                               |              512 | JS-free
 | https://catbox.moe/        | Up               |                                               |              200 | JS-free
 | https://biyori.moe/        | Up               |                                               |              100 |
 | https://up.vidyagam.es/    | Up               |                                               |             1024 |
+| https://comfy.moe/         | Up               |                                               |              512 |
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
 | https://up.asis.io/        | Down             |                                               |              100 |
