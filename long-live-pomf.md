@@ -28,7 +28,6 @@
 | https://cocaine.ninja/     | Up               |                                               |               32 | JS-free
 | https://pomf.pyonpyon.moe/ | Up               |                                               |               50 |
 | https://anticapitalism.party/ | Up            |                                               |              512 |
-| http://rfl.pw/             | Down             |                                               |              250 |
 | http://up.che.moe/         | Up               |                                               |               50 |
 | http://pomf.sinister.ly/   | Up               |                                               |              100 |
 
