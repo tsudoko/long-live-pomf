@@ -27,10 +27,10 @@
 | https://up.asis.io/        | Down             |                                               |              100 |
 | https://cocaine.ninja/     | Up               |                                               |               32 | JS-free
 | https://pomf.pyonpyon.moe/ | Up               |                                               |               50 |
+| https://anticapitalism.party/ | Up            |                                               |              512 |
 | http://rfl.pw/             | Down             |                                               |              250 |
 | http://up.che.moe/         | Up               |                                               |               50 |
 | http://pomf.sinister.ly/   | Up               |                                               |              100 |
-| https://anticapitalism.party/ | Up            |                                               |              512 |
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
