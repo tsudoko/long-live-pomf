@@ -30,6 +30,7 @@
 | https://anticapitalism.party/ | Up            |                                               |              512 |
 | http://up.che.moe/         | Up               |                                               |               50 |
 | http://pomf.sinister.ly/   | Up               |                                               |              100 |
+| https://catgirl.pw/        | Up               |                                               |              512 | JS-free, Pastebin
 
 JS-free means the site works without enabling JavaScript. Most sites that look like Pomf can be accessed
 using the Pomf API.
