@@ -1,7 +1,6 @@
 | Website                    | Status           | Source code                                   | Size limit (MiB) | Notes
 |----------------------------|------------------|-----------------------------------------------|-----------------:|---------------------------------------------
 | https://mixtape.moe/       | Up               | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
-| https://safe.moe/          | Up               | https://github.com/WeebDev/loli-safe          |              200 | Pastebin
 | https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
 | https://maro.xyz/          | Up               | https://github.com/Kiniamaro/maro.xyz-website |               50 |
 | https://pomfe.co/          | Up               | https://github.com/H3X-Dev/pomfe.co           |              100 |
@@ -36,7 +35,7 @@ using the Pomf API.
 
 Alternative lists (much more detailed than this one):
  - https://inaccessible.cf/pomf/ (Down)
- - https://docs.google.com/spreadsheets/d/1kh1TZdtyX7UlRd55OBxf7DB-JGj2rsfWckI0FPQRYhE/edit
+ - https://docs.google.com/spreadsheets/d/1kh1TZdtyX7UlRd55OBxf7DB-JGj2rsfWckI0FPQRYhE/edit (not actively maintained)
  - https://notabug.org/WubTheCaptain/deathwatch-pomf (no longer updated)
 
 [0]: http://ipfs.io/
