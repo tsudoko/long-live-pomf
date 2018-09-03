@@ -20,7 +20,7 @@
 | https://catbox.moe/        | Up               |                                               |              200 | JS-free
 | https://biyori.moe/        | Up               |                                               |              100 |
 | https://up.vidyagam.es/    | Up               |                                               |             1024 |
-| https://comfy.moe/         | Up               |                                               |              512 |
+| https://comfy.moe/         | Down             |                                               |              512 |
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
 | https://up.asis.io/        | Up               |                                               |              100 |
