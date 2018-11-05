@@ -2,7 +2,7 @@
 |----------------------------|------------------|-----------------------------------------------|-----------------:|---------------------------------------------
 | https://mixtape.moe/       | Up               | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
 | https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
-| https://maro.xyz/          | Up               | https://github.com/Kiniamaro/maro.xyz-website |               50 |
+| https://maro.xyz/          | Up               | https://github.com/Kiniamaro/maro.xyz-website |               50 | Invite-only
 | https://pomfe.co/          | Up               | https://github.com/H3X-Dev/pomfe.co           |              100 |
 | https://pomf.cat/          | Up               | https://github.com/banksymate/Pomf            |               75 |
 | https://void.cat/          | Up               | https://github.com/v0l/void.cat               |             2048 |
