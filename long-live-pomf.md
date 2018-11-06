@@ -3,7 +3,7 @@
 | https://mixtape.moe/       | Up               | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
 | https://sub.god.jp/        | Up               | https://github.com/xatasan/registrars         |               32 | JS-free, pastebin
 | https://maro.xyz/          | Up               | https://github.com/Kiniamaro/maro.xyz-website |               50 |
-| https://pomfe.co/          | Up               | https://github.com/H3X-Dev/pomfe.co           |              100 |
+| https://pomfe.co/          | Down             | https://github.com/H3X-Dev/pomfe.co           |              100 |
 | https://pomf.cat/          | Up               | https://github.com/banksymate/Pomf            |               75 |
 | https://void.cat/          | Up               | https://github.com/v0l/void.cat               |             2048 |
 | http://glop.me/            | Down             | https://github.com/2yrs/Pomf                  |               10 | Uses [IPFS][0], pastebin
