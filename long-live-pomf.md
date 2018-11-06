@@ -17,6 +17,7 @@
 |                            |                  | https://github.com/nya/cpomf                  |                  |
 | https://p.fuwafuwa.moe/    | Up               |                                               |               50 | JS-free
 | https://doko.moe/          | Up               |                                               |              512 | JS-free
+| https://pomf.fun/          | Up               |                                               |               50 | JS-free, file type whitelist
 | https://catbox.moe/        | Up               |                                               |              200 | JS-free
 | https://biyori.moe/        | Up               |                                               |              100 |
 | https://up.vidyagam.es/    | Up               |                                               |             1024 |
