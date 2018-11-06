@@ -20,13 +20,11 @@
 | https://catbox.moe/        | Up               |                                               |              200 | JS-free
 | https://biyori.moe/        | Up               |                                               |              100 |
 | https://up.vidyagam.es/    | Up               |                                               |             1024 |
-| https://comfy.moe/         | Down             |                                               |              512 |
 | https://vidga.me/          | Up               |                                               |              100 | JS-free
 | https://minifiles.net/     | Up               |                                               |              100 |
 | https://up.asis.io/        | Up               |                                               |              100 |
 | https://cocaine.ninja/     | Up               |                                               |               32 | JS-free
 | https://pomf.pyonpyon.moe/ | Up               |                                               |               50 |
-| https://anticapitalism.party/ | Down            |                                               |              512 |
 | http://up.che.moe/         | Up               |                                               |               50 |
 | http://pomf.sinister.ly/   | Up               |                                               |              100 |
 
