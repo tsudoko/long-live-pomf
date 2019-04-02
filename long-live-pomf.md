@@ -1,6 +1,6 @@
 | Website                    | Status           | Source code                                   | Size limit (MiB) | Notes
 |----------------------------|------------------|-----------------------------------------------|-----------------:|---------------------------------------------
-| https://mixtape.moe/       | Up               | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
+| https://mixtape.moe/       | Down             | https://gitgud.io/Sapphire/mixtape.moe        |              100 | Pastebin, voice
 | https://maro.xyz/          | Up               | https://github.com/Kiniamaro/maro.xyz-website |               50 |
 | https://pomfe.co/          | Down             | https://github.com/H3X-Dev/pomfe.co           |              100 |
 | https://pomf.cat/          | Up               | https://github.com/banksymate/Pomf            |               75 |
